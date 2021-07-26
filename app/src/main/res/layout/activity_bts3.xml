@@ -4,10 +4,10 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".BTS1Activity">
+    tools:context=".BTS3Activity">
 
     <ImageView
-        android:src="@drawable/bts_1"
+        android:src="@drawable/bts_3"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 
