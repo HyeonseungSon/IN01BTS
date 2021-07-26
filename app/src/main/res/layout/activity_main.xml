@@ -56,6 +56,19 @@
             android:src="@drawable/bts_7"
             android:layout_width="120dp"
             android:layout_height="120dp" />
+        <!-- 문자 가로 및 세로 가운데 정렬
+         : android:textAlignment="center"
+            android:gravity="center"-->
+        <TextView
+            android:id="@+id/text01"
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:text="안녕하세요!"
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="9pt"
+            android:textColor="@color/black" />
     </LinearLayout>
 
 
